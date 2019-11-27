@@ -1,11 +1,14 @@
 ---
-layout: home
-title: Printing Economically 
+layout: page
+title: ""
 ---
 
-## What would you like to print?
+# The Story of Brickmaking
 
-- [A PDF file](pdf)
-- [An Excel sheet](excel)
-- [A MS Word document](word)
-- [A Powerpoint presentation](powerpoint)
+![Book cover](/images/cover.jpeg)
+
+The Story of Brickmaking is a book by Caitriona Devery.
+
+It was launched on the 8th of December, 2019 and was supported by the Pollagh Heritage group.
+
+{% include stripe_button.html %}
